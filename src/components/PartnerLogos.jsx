@@ -11,9 +11,9 @@ function PartnerLogos() {
   ]
 
   return (
-    <section className="bg-slate-900 py-6 sm:py-8 border-t border-b border-gray-300">
+    <section className="bg-white  py-6 sm:py-8 border-t border-b border-gray-300">
       <div className="container mx-auto px-4 sm:px-6">
-        <div className="flex justify-around items-center flex-wrap gap-4 sm:gap-8 opacity-60">
+        <div className="flex justify-around items-center flex-wrap gap-4 sm:gap-8 opacity-100">
           {logos.map((logo, index) => (
             <img 
               key={index} 

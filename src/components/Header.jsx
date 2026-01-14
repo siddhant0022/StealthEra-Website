@@ -27,10 +27,10 @@ function Header() {
               
               {/* Desktop Navigation */}
               <div className="hidden lg:flex gap-8">
-                <a href="#home" className="text-gray-700 hover:text-blue-600 text-base transition-colors duration-200">Home</a>
-                <a href="#how-it-works" className="text-gray-700 hover:text-blue-600 text-base transition-colors duration-200">How It Works</a>
-                <a href="#testimonials" className="text-gray-700 hover:text-blue-600 text-base transition-colors duration-200">Testimonials</a>
-                <a href="#contact" className="text-gray-700 hover:text-blue-600 text-base transition-colors duration-200">Contact</a>
+                <a href="#home" className="text-gray-800 hover:text-blue-600 text-base transition-colors duration-200">Home</a>
+                <a href="#how-it-works" className="text-gray-800 hover:text-blue-600 text-base transition-colors duration-200">How It Works</a>
+                <a href="#testimonials" className="text-gray-800 hover:text-blue-600 text-base transition-colors duration-200">Testimonials</a>
+                <a href="#contact" className="text-gray-800 hover:text-blue-600 text-base transition-colors duration-200">Contact</a>
               </div>
 
               {/* Hamburger Menu Button (Mobile & Tablet) */}
@@ -70,28 +70,28 @@ function Header() {
                   <a
                     href="#home"
                     onClick={() => setIsMenuOpen(false)}
-                    className="block text-gray-700 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
+                    className="block text-gray-800 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
                   >
                     Home
                   </a>
                   <a
                     href="#how-it-works"
                     onClick={() => setIsMenuOpen(false)}
-                    className="block text-gray-700 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
+                    className="block text-gray-800 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
                   >
                     How It Works
                   </a>
                   <a
                     href="#testimonials"
                     onClick={() => setIsMenuOpen(false)}
-                    className="block text-gray-700 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
+                    className="block text-gray-800 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
                   >
                     Testimonials
                   </a>
                   <a
                     href="#contact"
                     onClick={() => setIsMenuOpen(false)}
-                    className="block text-gray-700 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
+                    className="block text-gray-800 hover:text-blue-600 hover:bg-gray-50 py-3 px-4 text-base font-medium rounded-md transition-all duration-200"
                   >
                     Contact
                   </a>
