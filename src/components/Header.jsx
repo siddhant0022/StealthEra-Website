@@ -108,7 +108,7 @@ function Header() {
           </h1>
 
           {/* Product Images */}
-          <div className="flex justify-center items-center gap-4 sm:gap-6 lg:gap-8 mb-8 sm:mb-12 relative py-4 sm:py-8">
+          <div className="flex justify-center items-center gap-0 sm:gap-0 lg:gap-0 mb-8 sm:mb-12 relative py-4 sm:py-8">
             <img 
               src="/images/watch1.png" 
               alt="Watch 1" 
