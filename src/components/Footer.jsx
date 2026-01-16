@@ -6,7 +6,7 @@ function Footer() {
           {/* Logo and Tagline */}
           <div className="sm:col-span-2 lg:col-span-2">
             <img src="/images/StealthEra.png" alt="StealthEra" className="h-8 sm:h-10 mb-4" />
-            <p className="text-gray-950 text-xs sm:text-sm">
+            <p className="text-gray-950 text-md sm:text-md">
               Empowering safer, smarter eldercare through AI innovation and preventative monitoring.
             </p>
           </div>
