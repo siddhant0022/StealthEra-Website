@@ -22,7 +22,7 @@ function Header() {
           <div className="container mx-auto px-4 sm:px-6 py-4">
             <div className="flex justify-between items-center">
               <div className="flex items-center">
-                <img src="/images/StealthEra-logo.png" alt="StealthEra" className="h-8 sm:h-10 transition-transform hover:scale-105" />
+                <img src="/images/StealthEra.png" alt="StealthEra" className="h-8 sm:h-10 transition-transform hover:scale-105" />
               </div>
               
               {/* Desktop Navigation */}
