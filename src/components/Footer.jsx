@@ -5,7 +5,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 sm:gap-8">
           {/* Logo and Tagline */}
           <div className="sm:col-span-2 lg:col-span-2">
-            <img src="/images/StealthEra-logo.png" alt="StealthEra" className="h-8 sm:h-10 mb-4" />
+            <img src="/images/StealthEra.png" alt="StealthEra" className="h-8 sm:h-10 mb-4" />
             <p className="text-gray-950 text-xs sm:text-sm">
               Empowering safer, smarter eldercare through AI innovation and preventative monitoring.
             </p>
